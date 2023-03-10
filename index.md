@@ -1,9 +1,10 @@
 ---
-title: Home
-layout: home
+layout: default
+title: Welcome
 nav_order: 1
 description: "Welcome"
 permalink: /
 ---
 
-#Welcome to Vanderbilt SEA Lab Docs
+# Welcome to The Vanderbilt SEA Lab Docs!
+
