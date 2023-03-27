@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Scan Scheduling 
+title: Scan Scheduling
 parent: Babies
-nav_order: 2
+grand_parent: MRI Protocol
+nav_order: 3
 ---
 
 # SCAN SCHEDULING AND REMINDERS
