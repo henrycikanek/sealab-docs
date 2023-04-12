@@ -16,11 +16,11 @@ This page teaches you how to schedule scans and set reminders
 
 2. Scheduling recommendations
     
-a. Schedule the time of the MRI scan to match with the child’s normal bedtime. Typically scan will start between 7pm-9pm, though sleep time may vary by individual. 
+    * Schedule the time of the MRI scan to match with the child’s normal bedtime. Typically scan will start between 7pm-9pm, though sleep time may vary by individual. 
 
-    For newborn scans, may have success during daytime hours.
+        * For newborn scans, may have success during daytime hours.
 
-c. Recommendation: Ask families how long their normal routine to fall asleep takes and then add 30 minutes. If families do not have a routine, estimate 1 hour. If two people cannot attend (to not allow child to fall asleep on the way to the scan) and a car service isn’t feasible, ask families to arrive much earlier (2+ hours) to make sure the child is tired but not overtired prior to the scan.
+     * Recommendation: Ask families how long their normal routine to fall asleep takes and then add 30 minutes. If families do not have a routine, estimate 1 hour. If two people cannot attend (to not allow child to fall asleep on the way to the scan) and a car service isn’t feasible, ask families to arrive much earlier (2+ hours) to make sure the child is tired but not overtired prior to the scan.
 
 3. Address any questions the parent might have about MRI or the visit.
 
